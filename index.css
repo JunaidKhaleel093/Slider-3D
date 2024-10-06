@@ -105,9 +105,15 @@ body::before {
   -webkit-text-stroke: 2px #808080;
   color: transparent;
 }
-.banner .content .author {
+/*.banner .content .author {
   font-family: "Playfair Display", serif;
   color: #080808;
+  text-align: right;
+  max-width: 200px;
+}*/
+.banner .content .author {
+  font-family: "Playfair Display", serif;
+  color: #00ff00;
   text-align: right;
   max-width: 200px;
 }

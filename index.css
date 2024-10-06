@@ -105,21 +105,23 @@ body::before {
   -webkit-text-stroke: 2px #004242;
   color: transparent;
 }
-.banner .content .author {
-  font-family: "Playfair Display", serif;
-  color: #0000cd;
-  text-align: right;
-  max-width: 200px;
+.banner .content .author{
+    font-family: "Playfair Display", serif;;
+    color: #080808;
+    text-align: right;
+    max-width: 200px;
 }
-.banner .content .author p {
-  color: #c40233;
+.banner .content .author p{
+    font-size: larger;
+    color: #c40233;
 }
-.banner .content .author span {
-  font-family: "Poppins", sans-serif;
-  color: #69359c;
+.banner .content .author span{
+    font-family: "Poppins", sans-serif;
+    font-size: medium;
+    color: #444c38;
 }
-.banner .content h2 {
-  font-size: 3em;
+.banner .content h2{
+    font-size: 3em;
 }
 .banner .content .model {
   background-image: url(images/main.png);
